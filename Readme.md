@@ -10,4 +10,5 @@
 
 ## Screenhots
 1. Final Output of this Exercise
-![img1]![img1](https://github.com/kuluruvineeth/ToyProject/blob/exercise1/Screenshots/img.png)
+
+![img1](https://github.com/kuluruvineeth/ToyProject/blob/exercise1/Screenshots/img.png)
