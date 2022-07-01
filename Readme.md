@@ -8,7 +8,7 @@
 - [x] Set the text size to 20sp.
 - [x] Remove the line that declares id.
 
-## Screenhots
+## Screenshots
 1. Final Output of this Exercise
 
 ![img1](https://github.com/kuluruvineeth/ToyProject/blob/exercise1/Screenshots/img.png)
