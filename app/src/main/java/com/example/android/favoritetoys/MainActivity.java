@@ -36,11 +36,15 @@ public class MainActivity extends AppCompatActivity {
         String[] toys = ToyBox.getToyNames();
 
         // COMPLETED (5) Loop through each toy and append the name to the TextView (Add \n for spacing)
-        String textView;
+        /*String textView;
         for(int i=0;i< toys.length;i++){
             textView = mToysListTextView.getText().toString();
-            textView = textView + toys[i] + "\n";
+            textView = textView + toys[i] + "\n\n\n";
             mToysListTextView.setText(textView);
+        }*/
+        // Shorter code
+        for(String t : toys){
+            mToysListTextView.append(t + "\n\n\n");
         }
     }
 }
