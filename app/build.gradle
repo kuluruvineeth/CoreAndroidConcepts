@@ -22,5 +22,6 @@ dependencies {
     //noinspection GradleCompatible
     implementation 'com.android.support:appcompat-v7:25.1.0'
 
-    // TODO (7) Remove the ConstraintLayout dependency as we aren't using it for these simple projects
+
+    // COMPLETED Remove the ConstraintLayout dependency as we aren't using it for these simple projects
 }
