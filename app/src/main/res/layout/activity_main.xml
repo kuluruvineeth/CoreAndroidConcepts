@@ -28,7 +28,7 @@
         android:id="@+id/et_search_box"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Enter a query, then click Search"
+        android:hint="Enter a repository name, then click Search"
         android:textSize="22sp" />
 
     <TextView
