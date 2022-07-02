@@ -10,5 +10,5 @@
 ## Screenshots
 1. Final Output of this Exercise
 
-![img1](https://github.com/kuluruvineeth/ToyProject/blob/exercise6/Screenshots/img.png)
-![img2](https://github.com/kuluruvineeth/ToyProject/blob/exercise6/Screenshots/img_1.png)
+![img1](https://github.com/kuluruvineeth/CoreAndroidConcepts/blob/GithubRepoSearch/DisplayUrl/Screenshots/img.png)
+![img2](https://github.com/kuluruvineeth/CoreAndroidConcepts/blob/GithubRepoSearch/DisplayUrl/Screenshots/img_1.png)
