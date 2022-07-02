@@ -9,4 +9,4 @@
 ## Screenshots
 1. Final Output of this Exercise
 
-![img1](https://github.com/kuluruvineeth/ToyProject/blob/exercise8/Screenshots/img.png)
+![img1](https://github.com/kuluruvineeth/CoreAndroidConcepts/blob/GithubRepoSearch/CreateAsyncTask/Screenshots/img.png)
