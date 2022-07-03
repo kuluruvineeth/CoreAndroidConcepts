@@ -5,7 +5,7 @@ android {
 
     defaultConfig {
         applicationId "com.example.android.recyclerview"
-        minSdkVersion 10
+        minSdk 14
         targetSdkVersion 32
         versionCode 1
         versionName "1.0"
@@ -19,8 +19,7 @@ android {
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
-    //noinspection GradleCompatible
-    implementation 'com.android.support:appcompat-v7:25.1.0'
+    implementation 'androidx.appcompat:appcompat:1.0.0'
 
     implementation 'androidx.recyclerview:recyclerview:1.1.0'
 }
