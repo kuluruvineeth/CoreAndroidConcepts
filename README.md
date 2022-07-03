@@ -8,6 +8,7 @@
 - [RecyclerView](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/FavoriteToys/RecyclerView)
 - [ViewHolder](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/FavoriteToys/ViewHolder)
 - [RecyclerViewAdapter](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/FavoriteToys/RecyclerViewAdapter)
+- [RecyclerViewLayoutManager](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/FavoriteToys/RecyclerViewLayoutManager)
 
 ## 2. GITHUB REPO SEARCH PROJECT
 
