@@ -11,6 +11,7 @@
 - [RecyclerViewLayoutManager](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/FavoriteToys/RecyclerViewLayoutManager)
 - [RecyclerViewExcellentViewHolderDemo](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/FavoriteToys/RecyclerViewExcellentViewHolderDemo)
 - [RefreshMenuButton](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/FavoriteToys/RefreshMenuButton)
+- [RecyclerViewClickHandling](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/FavoriteToys/RecyclerViewClickHandling)
 
 ## 2. GITHUB REPO SEARCH PROJECT
 
