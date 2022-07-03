@@ -7,6 +7,7 @@
 - [AddScrolling](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/FavoriteToys/AddScrolling)
 - [RecyclerView](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/FavoriteToys/RecyclerView)
 - [ViewHolder](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/FavoriteToys/ViewHolder)
+- [RecyclerView](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/FavoriteToys/RecyclerViewAdapter)
 
 ## 2. GITHUB REPO SEARCH PROJECT
 
