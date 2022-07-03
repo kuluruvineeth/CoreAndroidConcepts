@@ -5,6 +5,7 @@
 - [CreateLayout](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/FavoriteToys/CreateLayout)
 - [DisplayToList](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/FavoriteToys/DisplayToList)
 - [AddScrolling](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/FavoriteToys/AddScrolling)
+- [RecyclerView](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/FavoriteToys/RecyclerView)
 
 ## 2. GITHUB REPO SEARCH PROJECT
 
