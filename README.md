@@ -37,3 +37,4 @@
 ### IMPLICIT INTENT
 
 - [OpenWebPage](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/4b.1-OpenWebPage)
+- [OpenMap](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/4b.2-OpenMap)
