@@ -33,3 +33,7 @@
 - [AddNewActivity](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/4-AddNewActivity)
 - [StartNewActivity](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/4.1-StartNewActivity)
 - [PassingDataBetweenActivities](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/4.3-PassingDataBetweenActivities)
+
+### IMPLICIT INTENT
+
+- [OpenWebPage](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/4b.1-OpenWebPage)
