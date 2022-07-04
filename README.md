@@ -21,3 +21,9 @@
 - [ConnectingToTheInternet](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/GithubRepoSearch/ConnectingToInternet)
 - [CreateAsyncTask](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/GithubRepoSearch/CreateAsyncTask)
 - [AddPolish](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/GithubRepoSearch/AddPolish)
+
+## 4. A MULTIPLE ACTIVITY AND INTENT RELATED PROJECT
+
+- [AddNewActivity](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/4-AddNewActivity)
+- [StartNewActivity](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/4.1-StartNewActivity)
+- [PassingDataBetweenActivities](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/4.3-PassingDataBetweenActivities)
