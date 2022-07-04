@@ -44,3 +44,4 @@
 
 - [LogLifeCycle](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/5a.1-LogLifecycle)
 - [PersistData](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/5a.2-PersistData)
+- [FixLifeCycleDisplayBug](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/5a.3-FixLifecycleDisplayBug)
