@@ -28,6 +28,8 @@
 
 ## 4. A MULTIPLE ACTIVITY AND INTENT RELATED PROJECT
 
+### EXPLICIT INTENT
+
 - [AddNewActivity](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/4-AddNewActivity)
 - [StartNewActivity](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/4.1-StartNewActivity)
 - [PassingDataBetweenActivities](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/4.3-PassingDataBetweenActivities)
