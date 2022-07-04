@@ -12,4 +12,4 @@
 ## Screenshots
 1. Final Output of this exercise
 
-![img1](https://github.com/kuluruvineeth/Sunshine/blob/4-AddNewActivity/Screenshots/img.png)
+![img1](https://github.com/kuluruvineeth/CoreAndroidConcepts/blob/4-AddNewActivity/Screenshots/img.png)
