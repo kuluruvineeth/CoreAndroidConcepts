@@ -11,5 +11,5 @@
 ## Screenshots
 1. Final Output of this exercise
 
-![img1](https://github.com/kuluruvineeth/CoreAndroidConcepts/blob/4.3-StartNewActivity/Screenshots/img.png)
-![img2](https://github.com/kuluruvineeth/CoreAndroidConcepts/blob/4.3-StartNewActivity/Screenshots/img_1.png)
+![img1](https://github.com/kuluruvineeth/CoreAndroidConcepts/blob/4.3-PassingDataBetweenActivities/Screenshots/img.png)
+![img2](https://github.com/kuluruvineeth/CoreAndroidConcepts/blob/4.3-PassingDataBetweenActivities/Screenshots/img_1.png)
