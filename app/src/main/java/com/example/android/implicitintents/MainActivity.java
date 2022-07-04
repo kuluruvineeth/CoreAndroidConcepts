@@ -22,6 +22,7 @@ import android.view.View;
 import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.core.app.ShareCompat;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -67,10 +68,11 @@ public class MainActivity extends AppCompatActivity {
      * @param v Button that was clicked.
      */
     public void onClickShareTextButton(View v) {
-        // TODO (5) Specify a String you'd like to share
+        // COMPLETED (5) Specify a String you'd like to share
+        String text = "Hello there google i am coming";
 
-        // TODO (6) Replace the Toast with shareText, passing in the String from step 5
-        Toast.makeText(this, "TODO: Share text when this is clicked", Toast.LENGTH_LONG).show();
+        // COMPLETED (6) Replace the Toast with shareText, passing in the String from step 5
+        shareText(text);
     }
 
     /**
@@ -144,12 +146,17 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-    // TODO (1) Create a void method called shareText that accepts a String as a parameter
-    // Do steps 2 - 4 within the shareText method
+    // COMPLETED (1) Create a void method called shareText that accepts a String as a parameter
+    public void shareText(String text){
+        // COMPLETED (2) Create a String variable called mimeType and set it to "text/plain"
+        String mimeType = "text/plain";
+        // COMPLETED (3) Create a title for the chooser window that will pop up
+        String title = "Learning How to share";
+        // COMPLETED (4) Use ShareCompat.IntentBuilder to build the Intent and start the chooser
+        ShareCompat.IntentBuilder.from(this)
+                .setChooserTitle(title)
+                .setType(mimeType)
+                .setText(text);
+    }
 
-        // TODO (2) Create a String variable called mimeType and set it to "text/plain"
-
-        // TODO (3) Create a title for the chooser window that will pop up
-
-        // TODO (4) Use ShareCompat.IntentBuilder to build the Intent and start the chooser
 }
