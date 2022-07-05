@@ -221,10 +221,11 @@ public class MainActivity extends AppCompatActivity implements
             @Override
             public void deliverResult(@Nullable String githubJson) {
                 mGithubJson = githubJson;
+                // COMPLETED (4) Call super.deliverResult after storing the data
                 super.deliverResult(githubJson);
             }
 
-            // COMPLETED (4) Call super.deliverResult after storing the data
+
         };
     }
 
