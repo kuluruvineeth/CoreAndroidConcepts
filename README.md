@@ -51,3 +51,4 @@
 ### DATA PERSISTENCE ACROSS ACTIVITY RECREATION
 
 - [SaveResults](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/5b.1-SaveResults)
+- [AddAsyncTaskLoader](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/5b.2-AddAsyncTaskLoader)
