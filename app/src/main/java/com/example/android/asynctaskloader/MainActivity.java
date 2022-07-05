@@ -181,15 +181,17 @@ public class MainActivity extends AppCompatActivity implements
                 // COMPLETED (2) If mGithubJson is not null, deliver that result. Otherwise, force a load
                 if(mGithubJson!=null){
                     deliverResult(mGithubJson);
+                }else{
+                    mLoadingIndicator.setVisibility(View.VISIBLE);
+
+                    forceLoad();
                 }
 
                 /*
                  * When we initially begin loading in the background, we want to display the
                  * loading indicator to the user
                  */
-                mLoadingIndicator.setVisibility(View.VISIBLE);
 
-                forceLoad();
             }
 
             @Override
@@ -217,8 +219,9 @@ public class MainActivity extends AppCompatActivity implements
             // COMPLETED (3) Override deliverResult and store the data in mGithubJson
 
             @Override
-            public void deliverResult(@Nullable String data) {
-                super.deliverResult(data);
+            public void deliverResult(@Nullable String githubJson) {
+                mGithubJson = githubJson;
+                super.deliverResult(githubJson);
             }
 
             // COMPLETED (4) Call super.deliverResult after storing the data
