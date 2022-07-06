@@ -53,3 +53,7 @@
 - [SaveResults](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/5b.1-SaveResults)
 - [AddAsyncTaskLoader](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/5b.2-AddAsyncTaskLoader)
 - [PolishAsyncTask](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/5b.3-PolishAsyncTask)
+
+## 6. A VISUALIZER PREFERENCES APPLICATION
+
+- [SetupTheActivity](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/6.1-SetupTheActivity)
