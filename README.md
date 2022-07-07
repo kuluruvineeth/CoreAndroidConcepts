@@ -63,3 +63,4 @@
 - [PreferenceChangeListener](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/6.5-PreferenceChangeListener)
 - [AddTwoMoreCheckboxes](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/6.6-AddTwoMoreCheckboxes)
 - [ListPreference](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/6.7-ListPreference)
+- [PreferenceSummary](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/6.8-PreferenceSummary)
