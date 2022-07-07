@@ -58,3 +58,4 @@
 
 - [SetupTheActivity](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/6.1-SetupTheActivity)
 - [MakeAPreferenceFragment](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/6.2-MakeAPreferenceFragment)
+- [ReadingFromSharedPreferences](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/6.3-ReadingFromSharedPreferences)
