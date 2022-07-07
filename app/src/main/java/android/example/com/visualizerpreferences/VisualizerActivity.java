@@ -18,6 +18,7 @@ package android.example.com.visualizerpreferences;
 
 import android.Manifest;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.content.pm.PackageManager;
 import android.example.com.visualizerpreferences.AudioVisuals.AudioInputReader;
 import android.example.com.visualizerpreferences.AudioVisuals.VisualizerView;
@@ -31,6 +32,7 @@ import android.widget.Toast;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.app.ActivityCompat;
+import androidx.preference.PreferenceManager;
 
 public class VisualizerActivity extends AppCompatActivity {
 
@@ -43,14 +45,16 @@ public class VisualizerActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_visualizer);
         mVisualizerView = (VisualizerView) findViewById(R.id.activity_visualizer);
-        defaultSetup();
+        SetupSharedPreferences();
         setupPermissions();
     }
 
-    // TODO (1) Change the name of default setup to setupSharedPreferences
-    private void defaultSetup() {
-        // TODO (2) Get a reference to the default shared preferences from the PreferenceManager class
-        // TODO (3) Get the value of the show_bass checkbox preference and use it to call setShowBass
+    // COMPLETED (1) Change the name of default setup to setupSharedPreferences
+    private void SetupSharedPreferences() {
+        // COMPLETED (2) Get a reference to the default shared preferences from the PreferenceManager class
+        SharedPreferences sharedPreferences = PreferenceManager.getDefaultSharedPreferences(this);
+        // COMPLETED (3) Get the value of the show_bass checkbox preference and use it to call setShowBass
+        mVisualizerView.setShowBass(sharedPreferences.getBoolean("show_bass",true));
         mVisualizerView.setShowBass(true);
         mVisualizerView.setShowMid(true);
         mVisualizerView.setShowTreble(true);
