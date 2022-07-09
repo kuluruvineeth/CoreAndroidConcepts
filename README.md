@@ -2,6 +2,8 @@
 
 **Must Know Concepts in Android Framework** : *Activities*,*Services*,*Broadcast Receivers*,*Content Providers*.
 
+**Android Architecture Components** : *Room*,*ViewModel*,*LiveData*,*LifeCycle*.
+
 ## 1. A TOY PROJECT
 
 - [CreateLayout](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/FavoriteToys/CreateLayout)
