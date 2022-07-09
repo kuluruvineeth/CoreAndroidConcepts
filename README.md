@@ -68,3 +68,8 @@
 - [PreferenceSummary](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/6.8-PreferenceSummary)
 - [EditTextPreference](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/6.9-EditTextPreference)
 - [EditTextPreferenceConstraints](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/6.10-EditTextPreferenceConstraints)
+
+## 7. A QUIZ APPLICATION
+
+- [AddTheContentProviderPermission](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/8.1-AddTheContentProviderPermission)
+- [AddAsyncTaskToRetrieveCursor](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/8.2-AddAsyncTaskToRetrieveCursor)
