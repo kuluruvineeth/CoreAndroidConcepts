@@ -4,6 +4,11 @@
 
 **Android Architecture Components** : *Room*,*ViewModel*,*LiveData*,*LifeCycle*.
 
+#### Room
+  - @Entity - to define database tables.
+  - @DAO - to provide an API for reading and writing data.
+  - @Database - represents database holder.
+
 ## 1. A TOY PROJECT
 
 - [CreateLayout](https://github.com/kuluruvineeth/CoreAndroidConcepts/tree/FavoriteToys/CreateLayout)
